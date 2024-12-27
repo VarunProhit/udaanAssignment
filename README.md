@@ -98,7 +98,7 @@ CREATE TABLE interactions (
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/varunprohit/udaanAssignment.git
+   git clone https://github.com/VarunProhit/udaanAssignment.git
    cd udaanAssignment
    ```
 3. **Install Dependencies**
@@ -110,7 +110,7 @@ CREATE TABLE interactions (
    - Create a MySQL database
    - Create .env file and update following in it
    - 
-     ```javascript
+     ```bash
     PASSWORD="MYSQL PASSWIRD"
     USER="USERNAME IN DATABSE"
     HOST="HOSTNAME (DEFAULT IS localhost)"
