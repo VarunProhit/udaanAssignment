@@ -109,12 +109,12 @@ CREATE TABLE interactions (
 4. **Database Configuration**
    - Create a MySQL database
    - Create .env file and update following in it
-   - 
+   
      ```bash
-    PASSWORD="MYSQL PASSWIRD"
-    USER="USERNAME IN DATABSE"
-    HOST="HOSTNAME (DEFAULT IS localhost)"
-    DATABASE="YOUR DATABSE NAME"
+     PASSWORD="MYSQL PASSWIRD"
+     USER="USERNAME IN DATABSE"
+     HOST="HOSTNAME (DEFAULT IS localhost)"
+     DATABASE="YOUR DATABSE NAME"
      ```
 
 5. **Start the Server**
